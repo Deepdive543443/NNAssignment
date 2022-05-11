@@ -20,4 +20,7 @@ opencv-python             4.5.5.62
 torchvision               0.10.0     
 tqdm                      4.62.4.dev6+g6c930f5     
 
+# GitHub repository
+https://github.com/Deepdive543443/NNAssignment
+
 
