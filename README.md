@@ -1,9 +1,10 @@
 # NNAssignment
-This repositories belongs to the assignment of course Neural Network in Univerisity of Sussex. Ih this assignment, we tried training our model with different hyper-parameters and see what it performs.
+This repositories belongs to the assignment of course Neural Network in Univerisity of Sussex. Ih this assignment, we tried training our model with different hyper-parameters and see the different between performance.
 
 # File
 training.ipynb: The jupyter notebook of training model with different hyper-parameters.
-
+result.ipynb: Load the plot the saved result
+functional.ipynb: Testing the 
 
 models.py: Code of model constructor
 
